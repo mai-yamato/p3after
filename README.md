@@ -23,3 +23,4 @@ Things you may want to cover:
 
 * ...
 * Bookersの再作成用
+* 連携がうまくいかない
